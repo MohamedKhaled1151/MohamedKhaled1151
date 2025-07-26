@@ -53,15 +53,6 @@ Feel free to connect with me for anything tech-related — or just to say hello!
 
 ---
 
-### 📂 My Projects:
-
-Here are some of the projects I’ve worked on:
-
-* 🔹 [Taskati App](https://github.com/MohamedKhaled1151/taskati_app): A task management app built using Flutter and Firebase.
-* 🔹 [Hotel Management System](https://github.com/MohamedKhaled1151/hotel_management_system): A complete hotel management desktop system using C++.
-* 🔹 [BMI Calculator](https://github.com/MohamedKhaled1151/BMI_Calculator): Simple Flutter app to calculate body mass index.
-* 🔹 [Weather App](https://github.com/MohamedKhaled1151/weather_app): Flutter app that fetches weather data from an API.
-* 🔹 [My Portfolio Website](https://github.com/MohamedKhaled1151/MohamedKhaled1151): This GitHub Profile README itself 💼
 
 ---
 
