@@ -7,6 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedKhaled1151&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedKhaled1151" /> </p>
 
+> ❝ The best way to predict the future is to invent it ❞
+> — *Alan Kay*
+
 I am a passionate **software engineering student** with a strong focus on **Flutter app development** and **clean, maintainable code**.
 I work mainly with **Dart**, **Flutter**, and I also have solid experience in **C++**, **Python**, and **SQL**.
 I'm interested in building scalable and high-performance mobile applications using clean architecture, design patterns, and solid principles.
@@ -16,11 +19,10 @@ I enjoy solving algorithmic problems, studying **Data Structures**, and applying
 Feel free to connect with me for anything tech-related — or just to say hello! 🤝
 
 <hr>
-<h3 align="left">💡 Quote I Live By:</h3>
-<blockquote align="center">
-❝ The best way to predict the future is to invent it. ❞  
-— <i>Alan Kay</i>
-</blockquote>
+<h3 align="left">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 <hr>
 
 <img align="right" height="250" width="375" alt="coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
@@ -37,17 +39,7 @@ Feel free to connect with me for anything tech-related — or just to say hello!
 
 ### Languages and Tools I Work With:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="dart"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="cpp"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code> <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="vscode"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="android studio"></code>
-
----
-
-## 📊 GitHub Stats
-
-<details>
-  <summary><b>⚡ Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedKhaled1151&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaled1151&layout=compact&langs_count=8" />
-</details>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="dart"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="cpp"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code> <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="android studio"></code> <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio"></code>
 
 ---
 
