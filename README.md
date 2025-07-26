@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedKhaled1151&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedKhaled1151" /> </p>
 
-> ❝ The best way to predict the future is to invent it ❞
-> — *Alan Kay*
+> ❝ The only way to become a great developer is to build, break, and build again — stay curious and never stop coding. ❞
 
 I am a passionate **software engineering student** with a strong focus on **Flutter app development** and **clean, maintainable code**.
 I work mainly with **Dart**, **Flutter**, and I also have solid experience in **C++**, **Python**, and **SQL**.
@@ -40,6 +39,29 @@ Feel free to connect with me for anything tech-related — or just to say hello!
 ### Languages and Tools I Work With:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="dart"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="cpp"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code> <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="android studio"></code> <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio"></code>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedKhaled1151&show_icons=true&theme=radical" alt="Mohamed Khaled's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedKhaled1151&theme=radical" alt="GitHub Streak" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaled1151&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+</div>
+
+---
+
+### 📂 My Projects:
+
+Here are some of the projects I’ve worked on:
+
+* 🔹 [Taskati App](https://github.com/MohamedKhaled1151/taskati_app): A task management app built using Flutter and Firebase.
+* 🔹 [Hotel Management System](https://github.com/MohamedKhaled1151/hotel_management_system): A complete hotel management desktop system using C++.
+* 🔹 [BMI Calculator](https://github.com/MohamedKhaled1151/BMI_Calculator): Simple Flutter app to calculate body mass index.
+* 🔹 [Weather App](https://github.com/MohamedKhaled1151/weather_app): Flutter app that fetches weather data from an API.
+* 🔹 [My Portfolio Website](https://github.com/MohamedKhaled1151/MohamedKhaled1151): This GitHub Profile README itself 💼
 
 ---
 
