@@ -46,7 +46,8 @@ Feel free to connect with me for anything tech-related — or just to say hello!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedKhaled1151&show_icons=true&theme=radical" alt="Mohamed Khaled's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedKhaled1151&theme=radical" alt="GitHub Streak" width="48%" />
+  <br>
+  
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaled1151&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </div>
